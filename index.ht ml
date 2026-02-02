@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>For Chikki 💖</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<audio autoplay loop>
+  <source src="music.mp3" type="audio/mp3">
+</audio>
+
+<div class="hearts"></div>
+
+<div class="container" id="main">
+  <h1>💘 Hey Chikki 💘</h1>
+  <h2>Will you be my Valentine? 💕</h2>
+
+  <div class="buttons">
+    <button id="yes">YES 💖</button>
+    <button id="no">NO 😢</button>
+  </div>
+</div>
+
+<div class="letter" id="letter">
+  <h1>💌 My Love, Chikki 💌</h1>
+  <p>
+    Dear Chikki,<br><br>
+
+    I don’t know how to start this, but I know one thing for sure —  
+    you are the most beautiful part of my life. 💖  
+    The way you smile, the way you talk, the way you exist —  
+    everything about you feels like home to me.  
+
+    Every moment with you is special,  
+    every thought of you makes my heart smile.  
+    I don’t want perfect days,  
+    I just want **you** in every day of my life.  
+
+    So today, with all my heart,  
+    I want to ask you something very simple but very real…  
+
+    <br><br>
+    💍 **Will you be my Valentine and stay mine, always?** 💍  
+    <br><br>
+
+    Forever yours,  
+    ❤️
+  </p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
